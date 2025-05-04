@@ -1,12 +1,41 @@
-# React + Vite
+# 🌤️ Weather App - React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<!-- ✅ CHANGED: Added title and app summary -->
+Live App 👉 [weather-jamil.netlify.app](https://weather-jamil.netlify.app/)
 
-Currently, two official plugins are available:
+This is a weather forecast application built using **React** and **Vite**. Users can search for any city to view the current weather, temperature, humidity, and more, along with helpful weather tips and fun facts. The app also stores a short search history for quick access.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features <!-- ✅ NEW SECTION -->
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 Search any city for live weather info
+- 📍 Default weather loaded for **Chittagong**
+- 📊 Temperature, humidity, weather condition, and more
+- 🌈 Friendly UI with fun weather facts and daily safety tips
+- 🌙 Dark mode toggle
+- 🕓 Recent search history (stored in localStorage)
+- ⚡ Fast performance with Vite + React
+- ✅ Responsive design
+
+---
+
+## 🛠️ Built With <!-- ✅ NEW SECTION -->
+
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **OpenWeatherMap API**
+- **React Icons**
+- **React Awesome Reveal** (for animations)
+
+---
+
+## ⚙️ Getting Started Locally <!-- ✅ NEW SECTION -->
+
+To run this project on your machine:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/weather-app.git
+   cd weather-app

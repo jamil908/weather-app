@@ -2,11 +2,11 @@
 
 @plugin "daisyui";
 .dark{
-    background-color: black !important ;
+    background-color: black ;
     color: white !important;
 }
 .light{
-    background-color: rgb(41, 140, 216) !important ;
+    background-color: rgb(41, 140, 216) ;
     color:black !important;
 }
 
